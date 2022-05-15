@@ -1,4 +1,5 @@
 # hello-world
-I want to learn more about bioinformatics.
-I would love to go to Spain.
-I no longer think I want to work in healthcare.
+I enjoyed this week's lab session. 
+I was able to learn about the different avenues the biotechnology field offers.
+I really enjoyed Professor Rahman's enthusiam when it came to our success. Its nice to have professors who believe in you.
+PS it took me 3x to do this assignement and on my last try, I realized I didnt follow the prompt lol
